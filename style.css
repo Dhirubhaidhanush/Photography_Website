@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.hero-section{
+    background-image: url('https://ik.imagekit.io/98z8afjbc/Photography%20website/image31.jpg?updatedAt=1731586648281');
+    background-size: cover;
+    height: 100vh;
+}
+.contact-section{
+    background-image: url('https://ik.imagekit.io/98z8afjbc/Photography%20website/top-view-photo-camera-indoors-still-life_23-2150630943.jpg?updatedAt=1731586668715');
+    background-size: cover;
+    height: 100vh;
+}
